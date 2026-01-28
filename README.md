@@ -143,7 +143,7 @@ Basic options:
 
 The vault file path and salt path are managed in code and can be adjusted according to the environment or deployment preferences.
 
---
+---
 
 ## Tests
 
@@ -161,7 +161,7 @@ The following are covered:
 
 This allows you to validate the core behavior before extending functionality.
 
---
+---
 
 ## Design Decisions
 
